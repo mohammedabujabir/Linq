@@ -1,0 +1,7 @@
+C:\Users\Technipal\source\repos\LinQ\LinQ\bin\Debug\LinQ.exe.config
+C:\Users\Technipal\source\repos\LinQ\LinQ\bin\Debug\LinQ.exe
+C:\Users\Technipal\source\repos\LinQ\LinQ\bin\Debug\LinQ.pdb
+C:\Users\Technipal\source\repos\LinQ\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+C:\Users\Technipal\source\repos\LinQ\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\Technipal\source\repos\LinQ\LinQ\obj\Debug\LinQ.exe
+C:\Users\Technipal\source\repos\LinQ\LinQ\obj\Debug\LinQ.pdb
